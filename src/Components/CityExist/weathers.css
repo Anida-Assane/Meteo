@@ -1,0 +1,6 @@
+@media screen and (max-width: 1300px) {
+  .weathers {
+    flex-direction: column;
+    overflow-y: scroll;
+  }
+}

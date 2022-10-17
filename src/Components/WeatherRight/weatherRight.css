@@ -1,0 +1,5 @@
+@media screen and (min-width: 500px) {
+  .right {
+    flex: 5;
+  }
+}
